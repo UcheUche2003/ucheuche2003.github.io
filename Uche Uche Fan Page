@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es>
+<head>  <meta charset="utf-8" />
+<title>Uche Uche Fan Page</title>
+<link rel="stylesheet" href="css/uche styles.css" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+  <body>
+    <main>
+	 <h1>Mishis De Uche Uche Fan Page</h1>
+      <section>
+      <p><strong>Bienvenidos Todos Los Mishis A Mi Fan Page</strong></p> 
+  <!--QUE HACES AQUI EN EL CODIGO!? COMO ENTRASTE AQUI!? Bien, eh... Bueno... Pues, comenta "tilapia" en mi video mas reciente hasta ahora y te dare un premio XD-->
+      <img src="imagenes/Uche Uche Banner Fan Page.jpeg" alt="Uche Uche Icon" width="500">
+	  </section>
+	  <section>
+	  <h2>Guia De Contenido:</h2>
+	  <h3>
+	  <br>-Video De Presentacion De Uche Uche
+	  <br>-Contenido Exclusivo
+	  <br>-Tienda Y Suscripciones
+	  <br>-Donaciones
+	  </h3>
+	  </section>
+	</main>  
+	<footer>
+	<p>Esta pagina fue programada por mi mismo, pido perdon si no esta de lo mejor optimizada, sigo aprendiendo y este es un proyecto personal, los quiero mucho.</p>
+	  <h4> Atte: </h4>
+	 <strong><h4><a target="_blank" href="https://www.youtube.com/@UcheUcheVT">Uche Uche</strong><h4>
+	</footer>
+  </body>
+</html>
