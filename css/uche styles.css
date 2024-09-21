@@ -1,1 +1,9 @@
-
+h1, p, h4 {
+        text-align: center;
+      }
+	 body {
+		 background: linear-gradient(to bottom, #FB9EE4, #79B3BF);
+		  }
+  h1 {
+	  font-family: Lemon Jelly, serif;
+	  }
